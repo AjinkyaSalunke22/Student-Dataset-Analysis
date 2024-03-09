@@ -18,7 +18,7 @@ Visualization: Utilized Matplotlib and Seaborn to create visualizations such as 
 Statistical Analysis: Performed statistical analysis to derive meaningful insights from the data, including summary statistics, correlations, hypothesis testing, etc.
 Conclusion: Summarized the findings of the analysis, highlighting key insights and trends observed in the dataset.
 Files Included
-student_data.csv: The dataset used for analysis.
+student_scores.csv: The dataset used for analysis.
 analysis.ipynb or analysis.py: Jupyter Notebook or Python script containing the code for data analysis.
 README.md (this file): Overview of the project, dataset, analysis steps, and files included.
 Usage
@@ -33,4 +33,4 @@ NumPy
 Matplotlib
 Seaborn
 Author
-[Ajinkya Salunke]
+Ajinkya Salunke
